@@ -108,7 +108,6 @@ class WeatherAppWindow(QMainWindow, form_class):
 
 
 
-
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = WeatherAppWindow()
